@@ -1,0 +1,10 @@
+#header {
+    text-align: center;
+    margin-bottom: 20px;
+    background-image: url('../assets/holberton-logo.jpg');
+}
+
+#logo {
+    width: 200px;
+    height: 200px;
+}
