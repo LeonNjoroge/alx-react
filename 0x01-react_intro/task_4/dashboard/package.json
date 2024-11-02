@@ -42,7 +42,8 @@
   "devDependencies": {
     "@testing-library/react": "^16.0.1",
     "gh-pages": "^6.2.0",
-    "homepage":"https://leonnjoroge.github.io/alx-react/",
+    
+    
     "react-test-renderer": "^18.3.1"
   }
 }
