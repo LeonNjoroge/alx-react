@@ -1,6 +1,7 @@
 {
-  "homepage": "https://leonnjoroge.github.io/alx-react/",
+  
   "name": "dashboard",
+  "homepage": "https://leonnjoroge.github.io/alx-react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
