@@ -1,0 +1,45 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    height:100%;
+    padding:20px;
+    box-sizing: border-box;
+}
+
+.App-header{
+    border-bottom: 3px solid #fc6161;
+    display: flex;
+    align-items: center;
+}
+
+.App-header .App-logo{
+    width: 130px;
+    height: 130px;
+    display: inline;
+}
+
+.App-header h1{
+    display:inline;
+    color:#fd2929;
+    font-size:23px;
+}
+
+.App-body form input, button{
+    margin:7px;
+    
+}
+.App-body p{
+    margin-bottom: 2px;
+}
+
+
+.App-footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 96%;
+    border-top: 3px solid #fc6161;
+    font-style: italic;
+    
+    
+}
