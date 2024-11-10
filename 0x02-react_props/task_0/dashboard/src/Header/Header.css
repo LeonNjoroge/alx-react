@@ -1,0 +1,18 @@
+
+.App-header{
+    border-bottom: 3px solid #fc6161;
+    display: flex;
+    align-items: center;
+}
+
+.App-header .App-logo{
+    width: 130px;
+    height: 130px;
+    display: inline;
+}
+
+.App-header h1{
+    display:inline;
+    color:#fd2929;
+    font-size:23px;
+}
