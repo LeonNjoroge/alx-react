@@ -1,0 +1,32 @@
+#CourseList{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    border: 1px solid lightgrey;
+}
+
+
+
+td{
+    
+    padding: 3px 8px;
+    
+}
+
+
+th{
+    text-align: left;
+    padding: 3px 8px;
+}
+
+thead{
+    border: 1px solid lightgrey;
+}
+
+#CourseList thead tr:first-child th:first-child {
+    text-align: center;
+    border: 1px solid lightgrey;
+  }
+
+
+

@@ -1,0 +1,17 @@
+.Notifications{
+    border: 1px dashed #fd2929;
+    display: inline;
+    padding: 2px;
+    
+   
+}
+
+.notificationsWrapper{ 
+    display: flex;
+    flex-direction: column;
+    float: right;
+    margin: 0px;
+    margin-top: -25px;
+    padding: 5px 10px;
+
+}
